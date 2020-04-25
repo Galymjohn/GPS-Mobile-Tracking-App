@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-crm"
+    }
+  },
+  "defaultProject": "angular-crm",
+  "cli": {
+    "analytics": "743d332f-12c0-4386-bd54-25f8043ad4e0"
+  }
 }
